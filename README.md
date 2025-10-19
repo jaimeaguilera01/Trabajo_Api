@@ -15,7 +15,7 @@ El proyecto está pensado para **entender la estructura básica de un servidor E
 
 ## 🛠 Tecnologías utilizadas
 
-* **Node.js** (v22 o superior)
+* **Node.js** (v22)
 * **Express.js**
 * **Postman** (para pruebas de los endpoints)
 * **Nodemon** (opcional, para reinicio automático durante desarrollo)
